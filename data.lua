@@ -1,0 +1,1 @@
+require("prototypes.gold-sound")

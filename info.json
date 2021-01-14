@@ -1,0 +1,9 @@
+{
+	"name": "dotagold",
+	"version": "0.0.2",
+	"title": "Dota Gold Sound",
+	"author": "NotSteven",
+	"factorio_version": "1.1",
+	"contact": "sfalvo1@gmail.com",
+	"description": "Added DoTA2 gold sound to loudspeaker and command line"
+}
