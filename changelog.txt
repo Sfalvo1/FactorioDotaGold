@@ -1,0 +1,4 @@
+--------------------------------------------
+Version: 0.3
+- Added thumbnail
+- Removed debug command
